@@ -1,0 +1,40 @@
+<players root="gfx/characters/costumes/" portraitroot="gfx/ui/stage/" nameimageroot="gfx/ui/boss/">
+    <player name="Mary"
+        skin="character_mary.png"
+        nameimage="playername_mary.png"
+        hp="4"
+        armor="2"
+        portrait="playerportrait_mary.png"
+        skinColor="-1"
+        items="139, 439"
+        costumeSuffix="mary"
+        costume="7"
+        birthright="Gulp?"
+    />
+
+    <player name="Peter"
+        skin="character_peter.png"
+        nameimage="playername_peter.png"
+        hp="4"
+        armor="4"
+        keys="1"
+        portrait="playerportrait_peter.png"
+        skinColor="-1"
+        items="493"
+        costumeSuffix="peter"
+        costume="104"
+        birthright="It hurts"
+    />
+
+    <player name="Isaiah"
+        skin="character_isaiah.png"
+        nameimage="playername_isaiah.png"
+        hp="2"
+        portrait="playerportrait_isaiah.png"
+        skinColor="-1"
+        items="85, 251"
+        costumeSuffix="isaiah"
+        costume="7"
+        birthright="Energetic spirit"
+    />
+</players>

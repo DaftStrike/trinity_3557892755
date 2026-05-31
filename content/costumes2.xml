@@ -1,0 +1,27 @@
+<costumes anm2root="gfx/characters/">
+    <!--PASSIVOS-->
+        <!--D-Clover-->
+    <costume id="0" anm2path="DClover.anm2" type="passive" priority="0" />
+        <!--Paper Knife-->
+    <costume id="1" anm2path="PaperKnife.anm2" type="passive" priority="0" />
+        <!--Worn Tire-->
+    <costume id="2" anm2path="WornTireB.anm2" type="passive" priority="55" />
+    <costume id="2" anm2path="WornTire.anm2" type="passive" priority="55" />
+
+    <!--ATIVOS-->
+        <!--Mirror Of Hearts-->
+    <costume anm2path="MirrorHead.anm2" type="none" priority="25" />
+    <costume anm2path="MirrorBody.anm2" type="none" priority="25" />
+        <!--Hacker Laptop-->
+    <costume id="4" anm2path="HackerLaptop.anm2" type="passive" priority="0" />
+        <!--Chessboard-->
+    <costume id="5" anm2path="Chessboard.anm2" type="passive" priority="0" />
+
+    <!--PERSONAGENS-->
+        <!--Mary-->
+    <costume anm2path="MaryHead.anm2" type="none" priority="100" />
+        <!--Peter-->
+    <costume anm2path="PeterHead.anm2" type="none" priority="100" />
+        <!--Isaiah-->
+    <costume anm2path="IsaiahHead.anm2" type="none" priority="100" />
+</costumes>

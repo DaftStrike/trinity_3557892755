@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>Trinity [REP/REP+]</name>
+    <directory>trinity</directory>
+    <id>3557892755</id>
+    <description>A mod that adds three active items, passive items, trinkets, and playable characters.
+
+Active Items:
+- Mirror of Hearts
+- Hacker Laptop
+- Chessboard
+
+Passive Items:
+- D-Clover
+- Paper Knife
+- Worn Tire
+
+Trinkets:
+- Old Credit Card
+- Maggie's Drawing
+- Fire Killer
+
+Characters:
+- Mary
+- Peter
+- Isaiah
+
+Cover art by:
+@luh_artwork (Instagram)
+
+Character Stage Portrait by:
+ArtMocha (Steam)
+
+(Made in Brazil)</description>
+    <version>1.4</version>
+    <visibility>Public</visibility>
+    <tag id="Lua"/>
+    <tag id="Items"/>
+    <tag id="Active Items"/>
+    <tag id="Trinkets"/>
+    <tag id="Player Characters"/>
+</metadata>

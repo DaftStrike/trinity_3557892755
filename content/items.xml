@@ -1,0 +1,16 @@
+<items gfxroot="gfx/items/" deathanm2="gfx/death_items.anm2" version="1">
+    <!--Passive Items-->
+    <passive id="0" name="D-Clover" gfx="DClover.png" description="Luck up and item change" quality="3" cache="luck" craftquality="3" />
+    <passive id="1" name="Paper Knife" gfx="PaperKnife.png" description="Fragile" quality="3" cache="damage" craftquality="3" />
+    <passive id="2" name="Worn Tire" gfx="WornTire.png" description="Can't stop!" quality="2" cache="speed" craftquality="2" />
+
+    <!--Active Items-->
+    <active id="3" name="Mirror of Hearts" gfx="MirrorOfHearts.png" description="Look into your soul" quality="4" maxcharges="5" chargetype="normal" craftquality="4" />
+    <active id="4" name="Hacker Laptop" gfx="HackerLaptop.png" description="Break the system" quality="3" maxcharges="12" chargetype="normal"  passivecache="true" addcostumeonpickup="true" devilprice="2" craftquality="3" />
+    <active id="5" name="Chessboard" gfx="Chessboard.png" description="Checkmate" quality="4" maxcharges="8" chargetype="normal" passivecache="true" addcostumeonpickup="true" tearsup="true" devilprice="2" craftquality="4" />
+
+    <!--Trinkets-->
+    <trinket name="Old Credit Card" gfx="OldCreditCard.png" description="High interest rates!" />
+    <trinket name="Maggie's Drawing" gfx="MaggiesDrawing.png" description="How did you find this?!" cache="damage firedelay range" />
+    <trinket name="Fire Killer" gfx="FireKiller.png" description="Fight the fire" />
+</items>

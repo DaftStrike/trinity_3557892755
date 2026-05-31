@@ -1,0 +1,64 @@
+<wisps gfxroot="gfx/familiar/wisps/">
+
+    <color
+        name="MirrorWisp"
+        r="48"
+        g="99"
+        b="100"
+    />
+    <color
+        name="HackerWisp"
+        r="0"
+        g="255"
+        b="0"
+    />
+    <color
+        name="BlackWisp"
+        r="0"
+        g="0"
+        b="0"
+    />
+    <color
+        name="WhiteWisp"
+        r="255"
+        g="255"
+        b="255"
+    />
+
+    <!--Mirror Of Hearts-->
+    <wisp
+        id="3"
+        hp="1"
+        canshoot="false"
+        count="1"
+        coreColor="WhiteWisp"
+        flameColor="MirrorWisp"
+        layer="1"
+        priority="-1"
+    />
+
+    <!--Hacker Laptop-->
+    <wisp
+        id="4"
+        hp="12"
+        canShoot="false"
+        count="1"
+        coreColor="HackerWisp"
+        flameColor="BlackWisp"
+        layer="2"
+        priority="50"
+    />
+
+    <!--Chessboard-->
+    <wisp
+        id="5"
+        hp="4"
+        canshoot="true"
+        damage="3.2"
+        count="2"
+        coreColor="WhiteWisp"
+        flameColor="BlackWisp"
+        layer="1"
+        priority="99"
+    />
+</wisps>

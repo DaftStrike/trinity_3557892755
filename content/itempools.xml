@@ -1,0 +1,141 @@
+<ItemPools>
+    <!--JOGO BASE-->
+    <!--Treasure Room-->
+    <Pool Name="treasure">
+        <!--Passivos-->
+        <Item Name="D-Clover" Weight="0.75" DecreaseBy="0.1" RemoveOn="0.1" />
+        <Item Name="Paper Knife" Weight="0.75" DecreaseBy="0.75" RemoveOn="0.1" />
+        <Item Name="Worn Tire" Weight="0.75" DecreaseBy="0.75" RemoveOn="0.1" />
+
+        <!--Ativos-->
+        <Item Name="Mirror of Hearts" Weight="0.5" DecreaseBy="0.5" RemoveOn="0.1" />
+        <Item Name="Hacker Laptop" Weight="0.5" DecreaseBy="0.5" RemoveOn="0.1" />
+        <Item Name="Chessboard" Weight="0.5" DecreaseBy="0.5" RemoveOn="0.1" />
+    </Pool>
+
+    <!--Shop-->
+    <Pool Name="shop">
+        <!--Passivos-->
+        <Item Name="D-Clover" Weight="0.75" DecreaseBy="0.1" RemoveOn="0.1" />
+        <Item Name="Paper Knife" Weight="0.75" DecreaseBy="0.75" RemoveOn="0.1" />
+        <Item Name="Worn Tire" Weight="0.75" DecreaseBy="0.75" RemoveOn="0.1" />
+
+        <!--Ativos-->
+        <Item Name="Mirror of Hearts" Weight="0.5" DecreaseBy="0.5" RemoveOn="0.1" />
+        <Item Name="Chessboard" Weight="0.5" DecreaseBy="0.5" RemoveOn="0.1" />
+
+        <!--Trinkets-->
+        <Item Name="Old Credit Card" Weight="0.75" DecreaseBy="0.75" RemoveOn="0.1" />
+        <Item Name="Maggie's Draw" Weight="0.75" DecreaseBy="0.75" RemoveOn="0.1" />
+        <Item Name="Fire Killer" Weight="0.75" DecreaseBy="0.75" RemoveOn="0.1" />
+    </Pool>
+
+    <!--Secret Room-->
+    <Pool Name="secret">
+        <!--Passivos-->
+        <Item Name="D-Clover" Weight="0.75" DecreaseBy="0.1" RemoveOn="0.1" />
+        <Item Name="Paper Knife" Weight="0.75" DecreaseBy="0.75" RemoveOn="0.1" />
+        <Item Name="Worn Tire" Weight="0.75" DecreaseBy="0.75" RemoveOn="0.1" />
+
+        <!--Ativos-->
+        <Item Name="Mirror of Hearts" Weight="0.5" DecreaseBy="0.5" RemoveOn="0.1" />
+        <Item Name="Hacker Laptop" Weight="0.5" DecreaseBy="0.5" RemoveOn="0.1" />
+        <Item Name="Chessboard" Weight="0.5" DecreaseBy="0.5" RemoveOn="0.1" />
+    </Pool>
+
+    <!--Boss Room-->
+    <Pool Name="boss">
+        <!--Passivos-->
+        <Item Name="D-Clover" Weight="0.75" DecreaseBy="0.1" RemoveOn="0.1" />
+        <Item Name="Paper Knife" Weight="0.75" DecreaseBy="0.75" RemoveOn="0.1" />
+        <Item Name="Worn Tire" Weight="0.75" DecreaseBy="0.75" RemoveOn="0.1" />
+    </Pool>
+
+    <Pool Name="goldenChest">
+        <!--Passivos-->
+        <Item Name="D-Clover" Weight="0.75" DecreaseBy="0.1" RemoveOn="0.1" />
+        <Item Name="Paper Knife" Weight="0.75" DecreaseBy="0.75" RemoveOn="0.1" />
+        <Item Name="Worn Tire" Weight="0.75" DecreaseBy="0.75" RemoveOn="0.1" />
+
+        <!--Trinkets-->
+        <Item Name="Old Credit Card" Weight="0.75" DecreaseBy="0.75" RemoveOn="0.1" />
+        <Item Name="Maggie's Draw" Weight="0.75" DecreaseBy="0.75" RemoveOn="0.1" />
+        <Item Name="Fire Killer" Weight="0.75" DecreaseBy="0.75" RemoveOn="0.1" />
+    </Pool>
+
+    <!--Devil Room-->
+    <Pool Name="devil">
+        <!--Passivos-->
+        <Item Name="D-Clover" Weight="0.75" DecreaseBy="0.1" RemoveOn="0.1" />
+        <Item Name="Worn Tire" Weight="0.75" DecreaseBy="0.75" RemoveOn="0.1" />
+
+        <!--Ativos-->
+        <Item Name="Hacker Laptop" Weight="0.75" DecreaseBy="0.75" RemoveOn="0.1" />
+        <Item Name="Chessboard" Weight="0.75" DecreaseBy="0.75" RemoveOn="0.1" />
+    </Pool>
+
+    <!--Angel Room-->
+    <Pool Name="angel">
+        <!--Passivos-->
+        <Item Name="D-Clover" Weight="0.75" DecreaseBy="0.1" RemoveOn="0.1" />
+        <Item Name="Paper Knife" Weight="0.75" DecreaseBy="0.75" RemoveOn="0.1" />
+
+        <!--Ativos-->
+        <Item Name="Mirror of Hearts" Weight="0.75" DecreaseBy="0.75" RemoveOn="0.1" />
+        <Item Name="Chessboard" Weight="0.75" DecreaseBy="0.75" RemoveOn="0.1" />
+    </Pool>
+
+
+    <!--GREED(IER) MODE-->
+    <!--Treasure Room-->
+    <Pool Name="greedTreasure">
+        <Item Name="D-Clover" Weight="0.75" DecreaseBy="0.1" RemoveOn="0.1" />
+        <Item Name="Paper Knife" Weight="0.75" DecreaseBy="0.75" RemoveOn="0.1" />
+        <Item Name="Worn Tire" Weight="0.75" DecreaseBy="0.75" RemoveOn="0.1" />
+
+        <!--Ativos-->
+        <Item Name="Mirror of Hearts" Weight="0.5" DecreaseBy="0.5" RemoveOn="0.1" />
+        <Item Name="Hacker Laptop" Weight="0.75" DecreaseBy="0.75" RemoveOn="0.1" />
+        <Item Name="Chessboard" Weight="0.5" DecreaseBy="0.5" RemoveOn="0.1" />
+    </Pool>
+
+    <!--Shop-->
+    <Pool Name="greedShop">
+        <!--Passivos-->
+        <Item Name="D-Clover" Weight="0.75" DecreaseBy="0.1" RemoveOn="0.1" />
+        <Item Name="Paper Knife" Weight="0.75" DecreaseBy="0.75" RemoveOn="0.1" />
+        <Item Name="Worn Tire" Weight="0.75" DecreaseBy="0.75" RemoveOn="0.1" />
+
+        <!--Ativos-->
+        <Item Name="Mirror of Hearts" Weight="0.5" DecreaseBy="0.5" RemoveOn="0.1" />
+        <Item Name="Hacker Laptop" Weight="0.75" DecreaseBy="0.75" RemoveOn="0.1" />
+        <Item Name="Chessboard" Weight="0.5" DecreaseBy="0.5" RemoveOn="0.1" />
+
+        <!--Trinkets-->
+        <Item Name="Old Credit Card" Weight="0.75" DecreaseBy="0.75" RemoveOn="0.1" />
+        <Item Name="Maggie's Draw" Weight="0.75" DecreaseBy="0.75" RemoveOn="0.1" />
+        <Item Name="Fire Killer" Weight="0.75" DecreaseBy="0.75" RemoveOn="0.1" />
+    </Pool>
+
+    <!--Devil Room-->
+    <Pool Name="greedDevil">
+        <!--Passivos-->
+        <Item Name="D-Clover" Weight="0.75" DecreaseBy="0.1" RemoveOn="0.1" />
+        <Item Name="Worn Tire" Weight="0.75" DecreaseBy="0.75" RemoveOn="0.1" />
+
+        <!--Ativos-->
+        <Item Name="Hacker Laptop" Weight="0.75" DecreaseBy="0.75" RemoveOn="0.1" />
+        <Item Name="Chessboard" Weight="0.75" DecreaseBy="0.75" RemoveOn="0.1" />
+    </Pool>
+
+    <!--Angel Room-->
+    <Pool Name="greedAngel">
+        <!--Passivos-->
+        <Item Name="D-Clover" Weight="0.75" DecreaseBy="0.1" RemoveOn="0.1" />
+        <Item Name="Paper Knife" Weight="0.75" DecreaseBy="0.75" RemoveOn="0.1" />
+
+        <!--Ativos-->
+        <Item Name="Mirror of Hearts" Weight="0.75" DecreaseBy="0.75" RemoveOn="0.1" />
+        <Item Name="Chessboard" Weight="0.75" DecreaseBy="0.75" RemoveOn="0.1" />
+    </Pool>
+</ItemPools>
