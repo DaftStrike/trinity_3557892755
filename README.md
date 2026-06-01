@@ -8,7 +8,7 @@ Bem-vindo ao repositório oficial do mod! Este mod expande o conteúdo de *The B
 ---
 
 ## 📸 Screenshots da página na Steam
-> `<img src="./trinity_logo.gif" width="600px"/>`
+> <img src="./trinity_logo.gif" width="600px"/>
 
 ---
 
