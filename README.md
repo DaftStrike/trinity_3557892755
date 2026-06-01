@@ -1,16 +1,13 @@
-# 🩸 [Nome do Seu Mod] - The Binding of Isaac: Repentance
+# 🩸 The Binding Of Isaac: Trinity
 
-![Isaac Repentance](https://img.shields.io/badge/Compatibility-Repentance-red?style=for-the-badge)
-![Made in Brazil](https://img.shields.io/badge/Feito%20no-Brasil%20%F0%9F%87%A7%F0%9F%87%B7-green?style=for-the-badge)
-![Version](https://img.shields.io/badge/Vers%C3%A3o-1.0.0-blue?style=for-the-badge)
+![Isaac Repentance(+)](https://img.shields.io/badge/Compatibilidade-Repentance(+)-red?style=for-the-badge)
+![Version](https://img.shields.io/badge/Vers%C3%A3o-1.0.4-blue?style=for-the-badge)
 
-Bem-vindo ao repositório oficial do mod! Esta modificação expande o universo de *The Binding of Isaac: Repentance* adicionando novos personagens jogáveis com mecânicas únicas, itens poderosos (ativos e passivos) e trinkets intrigantes para sacudir as suas runs.
+Bem-vindo ao repositório oficial do mod! Este mod expande o conteúdo de *The Binding of Isaac: Repentance* adicionando novos personagens jogáveis, itens ativos, passivos e trinkets!
 
 ---
 
-## 📸 Demonstração / Screenshots
-> *Insira aqui GIFs ou imagens do seu mod em ação para chamar a atenção dos usuários do GitHub!*
->
+## 📸 Screenshots da página na Steam
 > `<img src="link_da_imagem.png" width="600px"/>`
 
 ---
@@ -21,36 +18,34 @@ Cada personagem traz um estilo de jogo totalmente novo e atributos únicos.
 
 | Personagem | Status Iniciais / Itens | Descrição / Mecânica Principal |
 | :---: | :--- | :--- |
-| **Mary** | *Vida:* [X] <br> *Velocidade:* [X] <br> *Item Inicial:* [Nenhum/Item] | *[Placeholder: Adicione aqui uma breve descrição sobre a mecânica da Mary, ex: Começa com corações eternos, lágrimas teleguiadas, etc.]* |
-| **Peter** | *Vida:* [X] <br> *Velocidade:* [X] <br> *Item Inicial:* [Nenhum/Item] | *[Placeholder: Adicione aqui uma breve descrição sobre a mecânica do Peter.]* |
-| **Isaiah** | *Vida:* [X] <br> *Velocidade:* [X] <br> *Item Inicial:* [Nenhum/Item] | *[Placeholder: Adicione aqui uma breve descrição sobre a mecânica do Isaiah.]* |
+| **Mary** | *Vida:* 2 <br> *Velocidade:* 1 *Dano:* 1 | *Focada na utilização de Trinkets, Mary pode carregar dois trinkets ao mesmo tempo, além de melhorar a usabilidade dos trinkets que segura.* |
+| **Peter** | *Vida:* 2 <br> *Velocidade:* 1 *Dano:* 2 | *Pode alterar a prioridade de perda de corações (corações vermelhos antes de corações pretos ou de alma). Isso não faz com que as chances de pacto ou sala de anjo diminuam. Quanto mais corações vermelhos vazios Peter tiver, mais dano ele causa.* |
+| **Isaiah** | *Vida:* 1 <br> *Velocidade:* 2 *Dano:* 1 | *Pode gerar cartas de tarô. Utilizar cartas ou runas aumenta seu dano de forma cumulativa, mas todo bônus é perdido ao perder vida.* |
 
 ---
 
 ## 🔮 Novos Itens
 
 ### 🟥 Itens Ativos
-Itens de uso com tempo de recarga (cooldown) que podem mudar o rumo da sala.
 
 * **🧪 Espelho de Corações**
-    * *Tempo de Recarga:* `[X] Salas`
-    * *Efeito:* [Placeholder: Descreva o que o Espelho de Corações faz quando ativado.]
+    * *Tempo de Recarga:* `5 Salas`
+    * *Efeito:* Inverte a prioridade de perda de corações até o fim do andar.
 * **💻 Notebook Hacker**
-    * *Tempo de Recarga:* `[X] Salas`
-    * *Efeito:* [Placeholder: Descreva o efeito do Notebook Hacker.]
+    * *Tempo de Recarga:* `12 Salas`
+    * *Efeito:* Spawna um item que não apareceria na sala em que o Notebook foi usado.
 * **♟️ Tabuleiro de Xadrez**
-    * *Tempo de Recarga:* `[X] Salas`
-    * *Efeito:* [Placeholder: Descreva o efeito do Tabuleiro de Xadrez.]
+    * *Tempo de Recarga:* `8 Salas`
+    * *Efeito:* Pode dobrar o dano e diminuir a taxa de disparo ou dobrar a taxa de disparo e diminuir o dano.
 
 ### 🟦 Itens Passivos
-Efeitos permanentes que alteram os status ou lágrimas do Isaac.
 
 * **🍀 Trevo d4 Folhas**
-    * *Efeito:* [Placeholder: Descreva o efeito passivo do Trevo d4 Folhas, ex: Aumenta a sorte de forma única, rerrola itens de uma forma específica, etc.]
+    * *Efeito:* Concede +4 de Sorte. Se tiver um item passivo categoria 0, o remove e spawna um novo item aleatório.
 * **📄 Faca de Papel**
-    * *Efeito:* [Placeholder: Descreva o efeito da Faca de Papel.]
+    * *Efeito:* Aumenta o seu dano sempre que utilizar uma carta de tarô ou uma runa. Este bônus é reiniciado se receber dano.
 * **🛞 Pneu Careca**
-    * *Efeito:* [Placeholder: Descreva o efeito do Pneu Careca.]
+    * *Efeito:* Aumenta em 0.2 a velocidade. Sua velocidade não pode mais ser reduzida, independentemente da fonte.
 
 ---
 
@@ -58,11 +53,11 @@ Efeitos permanentes que alteram os status ou lágrimas do Isaac.
 Pequenos amuletos que concedem bônus passivos enquanto carregados.
 
 * **💳 Cartão de Crédito Velho**
-    * *Efeito:* [Placeholder: Descreva o bônus concedido por este trinket.]
+    * *Efeito:* Aumenta suas moedas em 10% sempre que ganhar carga para seu item ativo.
 * **🎨 Desenho da Maggie**
-    * *Efeito:* [Placeholder: Descreva o bônus concedido por este trinket.]
+    * *Efeito:* Não faz nada... **aparentemente.**
 * **🔥 Corta-fogo**
-    * *Efeito:* [Placeholder: Descreva o bônus concedido por este trinket.]
+    * *Efeito:* Apaga todas as fogueiras automaticamente, incluindo fogueiras azuis e roxas.
 
 ---
 
@@ -76,7 +71,7 @@ Pequenos amuletos que concedem bônus passivos enquanto carregados.
 4. Ative o mod no menu de Mods dentro do próprio jogo.
 
 ### Opção 2: Pela Oficina Steam (Recomendado)
-* [Clique aqui para acessar a página do mod na Steam Workshop](LINK_DA_OFICINA_AQUI) e clique em **Inscrever-se**.
+* [Clique aqui para acessar a página do mod na Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3557892755) e clique em **Inscrever-se**.
 
 ---
 
@@ -85,8 +80,8 @@ Pequenos amuletos que concedem bônus passivos enquanto carregados.
 Este mod não seria possível sem o talento incrível dos seguintes artistas:
 
 * **Arte de Capa:** [@luh_artwork](https://www.instagram.com/luh_artwork) (Instagram)
-* **Arte de Personagens Caídos (Boss Screen / Co-op):** [ArtMocha](https://steamcommunity.com/id/PLACEHOLDER) (Steam)
-* **Programação e Design:** [Seu Nome/Nick Aqui]
+* **Arte de Personagens Caídos (Boss Screen / Co-op):** [ArtMocha](https://steamcommunity.com/profiles/76561198284588987) (Steam)
+* **Programação e Design:** [Summer Vanntower](https://steamcommunity.com/id/Cosmic_Atlas/) (Steam)
 
 ---
 
