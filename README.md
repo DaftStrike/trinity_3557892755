@@ -1,4 +1,4 @@
-# 🩸 The Binding Of Isaac: Trinity
+# 🟡🔴🔵 The Binding Of Isaac: Trinity
 
 ![Isaac Repentance(+)](https://img.shields.io/badge/Compatibilidade-Repentance(+)-red?style=for-the-badge)
 ![Version](https://img.shields.io/badge/Vers%C3%A3o-1.0.4-blue?style=for-the-badge)
@@ -18,15 +18,15 @@ Cada personagem traz um estilo de jogo totalmente novo e atributos únicos.
 
 | Personagem | Status Iniciais / Itens | Descrição / Mecânica Principal |
 | :---: | :--- | :--- |
-| **Mary** | *❤️:* 2 <br> *👟:* 1 *🗡️:* 1 | *Focada na utilização de Trinkets, Mary pode carregar dois trinkets ao mesmo tempo, além de melhorar a usabilidade dos trinkets que segura.* |
-| **Peter** | *❤️:* 2 <br> *👟:* 1 *🗡️:* 2 | *Pode alterar a prioridade de perda de corações (corações vermelhos antes de corações pretos ou de alma). Isso não faz com que as chances de pacto ou sala de anjo diminuam. Quanto mais corações vermelhos vazios Peter tiver, mais dano ele causa.* |
-| **Isaiah** | *❤️:* 1 <br> *👟:* 2 *🗡️:* 1 | *Pode gerar cartas de tarô. Utilizar cartas ou runas aumenta seu dano de forma cumulativa, mas o bônus é zerado ao perder vida.* |
+| **🟡 Mary** | ❤️: 2 <br> 👟: 1 <br> 🗡️: 1 | *Focada na utilização de Trinkets, Mary pode carregar dois trinkets ao mesmo tempo, além de melhorar a usabilidade dos trinkets que segura.* |
+| **🔴 Peter** | ❤️: 2 <br> 👟: 1 <br> 🗡️: 2 | *Pode alterar a prioridade de perda de corações (corações vermelhos antes de corações pretos ou de alma). Isso não faz com que as chances de pacto ou sala de anjo diminuam. Quanto mais corações vermelhos vazios Peter tiver, mais dano ele causa.* |
+| **🔵 Isaiah** | ❤️: 1 <br> 👟: 2 <br> 🗡️: 1 | *Pode gerar cartas de tarô. Utilizar cartas ou runas aumenta seu dano de forma cumulativa, mas o bônus é zerado ao perder vida.* |
 
 ---
 
 ## 🔮 Novos Itens
 
-### 🟥 Itens Ativos
+### 🟦 Itens Ativos
 
 * **🪞 Espelho de Corações**
     * *Tempo de Recarga:* `5 Salas`
@@ -38,7 +38,7 @@ Cada personagem traz um estilo de jogo totalmente novo e atributos únicos.
     * *Tempo de Recarga:* `8 Salas`
     * *Efeito:* Pode dobrar o dano e diminuir a taxa de disparo ou dobrar a taxa de disparo e diminuir o dano.
 
-### 🟦 Itens Passivos
+### 🟥 Itens Passivos
 
 * **🍀 Trevo d4 Folhas**
     * *Efeito:* Concede +4 de Sorte. Se tiver um item passivo categoria 0, o remove e spawna um novo item aleatório.
