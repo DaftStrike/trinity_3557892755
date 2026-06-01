@@ -47,10 +47,7 @@ Cada personagem traz um estilo de jogo totalmente novo e atributos únicos.
 * **🛞 Pneu Careca**
     * *Efeito:* Aumenta em 0.2 a velocidade. Sua velocidade não pode mais ser reduzida, independentemente da fonte.
 
----
-
-## 🪙 Novos Trinkets (Acessórios)
-Pequenos amuletos que concedem bônus passivos enquanto carregados.
+### 🪙 Trinkets
 
 * **💳 Cartão de Crédito Velho**
     * *Efeito:* Aumenta suas moedas em 10% sempre que ganhar carga para seu item ativo.
