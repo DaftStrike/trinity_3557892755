@@ -18,9 +18,9 @@ Cada personagem traz um estilo de jogo totalmente novo e atributos únicos.
 
 | Personagem | Status Iniciais / Itens | Descrição / Mecânica Principal |
 | :---: | :--- | :--- |
-| **Mary** | *Vida:* 2 <br> *Velocidade:* 1 *Dano:* 1 | *Focada na utilização de Trinkets, Mary pode carregar dois trinkets ao mesmo tempo, além de melhorar a usabilidade dos trinkets que segura.* |
-| **Peter** | *Vida:* 2 <br> *Velocidade:* 1 *Dano:* 2 | *Pode alterar a prioridade de perda de corações (corações vermelhos antes de corações pretos ou de alma). Isso não faz com que as chances de pacto ou sala de anjo diminuam. Quanto mais corações vermelhos vazios Peter tiver, mais dano ele causa.* |
-| **Isaiah** | *Vida:* 1 <br> *Velocidade:* 2 *Dano:* 1 | *Pode gerar cartas de tarô. Utilizar cartas ou runas aumenta seu dano de forma cumulativa, mas todo bônus é perdido ao perder vida.* |
+| **Mary** | *❤️:* 2 <br> *👟:* 1 *🗡️:* 1 | *Focada na utilização de Trinkets, Mary pode carregar dois trinkets ao mesmo tempo, além de melhorar a usabilidade dos trinkets que segura.* |
+| **Peter** | *❤️:* 2 <br> *👟:* 1 *🗡️:* 2 | *Pode alterar a prioridade de perda de corações (corações vermelhos antes de corações pretos ou de alma). Isso não faz com que as chances de pacto ou sala de anjo diminuam. Quanto mais corações vermelhos vazios Peter tiver, mais dano ele causa.* |
+| **Isaiah** | *❤️:* 1 <br> *👟:* 2 *🗡️:* 1 | *Pode gerar cartas de tarô. Utilizar cartas ou runas aumenta seu dano de forma cumulativa, mas o bônus é zerado ao perder vida.* |
 
 ---
 
@@ -54,21 +54,21 @@ Cada personagem traz um estilo de jogo totalmente novo e atributos únicos.
 * **📔 Desenho da Maggie**
     * *Efeito:* Não faz nada... **aparentemente.**
 * **🧯 Corta-fogo**
-    * *Efeito:* Apaga todas as fogueiras automaticamente, incluindo fogueiras azuis e roxas.
+    * *Efeito:* Apaga todo tipo de fogueira automaticamente, exceto branca.
 
 ---
 
 ## 🛠️ Instalação
 
-### Opção 1: Pelo GitHub (Instalação Manual)
+### Opção 1: Pela Oficina Steam (Recomendado)
+* [Clique aqui para acessar a página do mod na Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3557892755) e clique em **Inscrever-se**.
+
+### Opção 2: Pelo GitHub (Instalação Manual)
 1. Baixe o código do repositório clicando em **Code > Download ZIP**.
 2. Extraia o conteúdo do arquivo `.zip`.
 3. Copie a pasta extraída e cole no diretório de mods do Isaac. Geralmente fica em:
    `C:\Program Files (x86)\Steam\steamapps\common\The Binding of Isaac Rebirth\mods`
 4. Ative o mod no menu de Mods dentro do próprio jogo.
-
-### Opção 2: Pela Oficina Steam (Recomendado)
-* [Clique aqui para acessar a página do mod na Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3557892755) e clique em **Inscrever-se**.
 
 ---
 
@@ -77,7 +77,7 @@ Cada personagem traz um estilo de jogo totalmente novo e atributos únicos.
 Este mod não seria possível sem o talento incrível dos seguintes artistas:
 
 * **Arte de Capa:** [@luh_artwork](https://www.instagram.com/luh_artwork) (Instagram)
-* **Arte de Personagens Caídos (Boss Screen / Co-op):** [ArtMocha](https://steamcommunity.com/profiles/76561198284588987) (Steam)
+* **Arte de Personagens Caídos:** [ArtMocha](https://steamcommunity.com/profiles/76561198284588987) (Steam)
 * **Programação e Design:** [Summer Vanntower](https://steamcommunity.com/id/Cosmic_Atlas/) (Steam)
 
 ---
