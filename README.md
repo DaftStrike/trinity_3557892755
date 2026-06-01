@@ -28,7 +28,7 @@ Cada personagem traz um estilo de jogo totalmente novo e atributos únicos.
 
 ### 🟥 Itens Ativos
 
-* **🧪 Espelho de Corações**
+* **🪞 Espelho de Corações**
     * *Tempo de Recarga:* `5 Salas`
     * *Efeito:* Inverte a prioridade de perda de corações até o fim do andar.
 * **💻 Notebook Hacker**
@@ -42,7 +42,7 @@ Cada personagem traz um estilo de jogo totalmente novo e atributos únicos.
 
 * **🍀 Trevo d4 Folhas**
     * *Efeito:* Concede +4 de Sorte. Se tiver um item passivo categoria 0, o remove e spawna um novo item aleatório.
-* **📄 Faca de Papel**
+* **🔪 Faca de Papel**
     * *Efeito:* Aumenta o seu dano sempre que utilizar uma carta de tarô ou uma runa. Este bônus é reiniciado se receber dano.
 * **🛞 Pneu Careca**
     * *Efeito:* Aumenta em 0.2 a velocidade. Sua velocidade não pode mais ser reduzida, independentemente da fonte.
@@ -54,9 +54,9 @@ Pequenos amuletos que concedem bônus passivos enquanto carregados.
 
 * **💳 Cartão de Crédito Velho**
     * *Efeito:* Aumenta suas moedas em 10% sempre que ganhar carga para seu item ativo.
-* **🎨 Desenho da Maggie**
+* **📔 Desenho da Maggie**
     * *Efeito:* Não faz nada... **aparentemente.**
-* **🔥 Corta-fogo**
+* **🧯 Corta-fogo**
     * *Efeito:* Apaga todas as fogueiras automaticamente, incluindo fogueiras azuis e roxas.
 
 ---
